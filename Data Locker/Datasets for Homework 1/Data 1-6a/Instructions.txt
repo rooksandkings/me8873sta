@@ -1,0 +1,16 @@
+Note:
+-All data files named 'u_ ...' are inputs.
+-All data files named 'y_ ...' are outputs.
+-All data files named 'Theta_ ...' are parameters.
+Directions:
+
+1) Start by using the input-output data in the 'Test Data' folder to make sure your code is correct. The parameters used to generate the output are constant and are theta = [5 -2 3]'.
+
+
+2) For part a) of your assignment, run your algorithm on the input-outuput data in the 'Data 1-a' folder. The time courses of the true parameters are provided.
+
+
+3) For part b) of your assignment, run your algorithm on the input-outuput data in the 'Data 1-b' folder. The time courses of the true parameters are provided.
+
+
+4)****Please turn in your source code****
