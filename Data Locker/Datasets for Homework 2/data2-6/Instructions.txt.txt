@@ -1,0 +1,5 @@
+1) The file 'Paramters.txt' has all of the state and output equation parameters as well as noise paramaters. The symbols are the same as are used in your class notes.
+
+2) The files 'y.txt' and 'u.txt' are the time series of y and u specified in the problem statement.
+
+3)The files 'X1.txt', 'X2.txt', 'X3.txt' are true system states, dTe, dTw, dL2, respectively, for comparison with the results from the Kalman Filter. 
