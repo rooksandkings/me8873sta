@@ -1,0 +1,4 @@
+1) 'AorticFowlInput.txt' is the input, u(t), to the system.
+2) 'BloodPressureOutput.txt' is the output, y(t), of the system.
+3) Follow the directions in the HW assignment.
+4) The sampling rate is 100Hz!
