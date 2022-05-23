@@ -1,0 +1,5 @@
+1) Use the Training Data folder to train your RBF's according to Part (a) of the problem. Please note that 'Phi.txt' contains the x and y coordinates of each point while 'y.txt' contains the height of each point.
+
+2) Use the Evaluation Data to evaluate the model you identified using the RBF's from part (a) as is requested in part (c) of the problem. Here, 'Phitest.txt' contains the x and y coordinates of each point and 'ytest.txt' contains the height of each point.
+
+3) Please submit your source code.
